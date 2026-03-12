@@ -1,3 +1,11 @@
+p a{font:10px/14px Tahoma, sans-serif; color:#868e36; text-decoration:underline;}
+p a:hover{ color:#868e36; text-decoration:none;}
+
+.headline{font:10px/14px Tahoma, Geneva, sans-serif; color:#868e36; font-weight:bold}
+.headline2{font:10px/14px Tahoma, Geneva, sans-serif; color:#9d1263; font-weight:bold}
+
+#container{width:685px; position:relative; margin:0 auto;}
+
 /* footer */
 
 #footer{height:49px; clear:both; width:775px; background:#e8f09c; margin: 0 auto}
