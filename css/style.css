@@ -17,3 +17,9 @@ p a:hover{ color:#868e36; text-decoration:none;}
 #content{width:685px; overflow:hidden}
 #leftPan{width:309px; float:left}
 #rightPan{float:right; width:351px}
+
+#featured h2{height:38px; position:relative; background:url(../images/h_prod.gif) 0 0 no-repeat; margin-bottom:6px}
+#featured p.headline{margin-bottom:5px}
+.featItem{width:116px; float:left; margin-right:44px}
+.featItem#i03{margin-right:0}
+.featItem img{margin-bottom:15px}
