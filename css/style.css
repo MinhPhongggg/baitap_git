@@ -5,3 +5,11 @@
 #logoPan{width:685px; height:92px; position:relative}
 #logoPan img#logo{position:absolute; top:0; left:19px}
 #logoPan img#slogan{position:absolute; top:25px; left:376px}
+
+
+/* menu */
+#menuPan{width:685px; height:38px; background:#f8dae8; position:relative;}
+#menuPan ul.menu{position:absolute; top:12px; left:33px; width:640px}
+#menuPan ul.menu li{height:16px; margin-right:28px; float:left}
+#menuPan ul.menu li a{height:16px; display:block; text-indent:-20000px; }
+#menuPan ul.menu li a:hover{height:16px;}
